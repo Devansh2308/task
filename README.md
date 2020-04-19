@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Functionality
 Firstly, The User have to enter any positive integer ,let suppose n. Then the app renders n X n grid,Each cell filled with random colors
  mainly Blue , Red and Green. After which Longest horizontal chain is highlighted when user requests for it. 
+ check it at [app](https://task.kdevanshsharma23.now.sh/)
 
 
 ## Available Scripts
